@@ -17,7 +17,7 @@ _Juego de carro con obstaculo para aprender movimiento básico._
 
 
 ## Evidencia de Desarrollo
-<a href="https://drive.google.com/file/d/1Z5VfypgtG7u4XxGFNZgJ0HUzBpsw847G/view?usp=drive_link" target="_blank">PDF de Evidencia</a>
+_NO SE HIZO ARCHIVO DE EVIDENCIA PARA ESTE PROTOTIPO_
 
 ## Características
 - Movimiento básico
